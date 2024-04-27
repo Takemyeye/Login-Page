@@ -65,7 +65,7 @@ h1{
   border-radius: 12px;
   font-size: 18px;
   background-color: transparent;
-  font-family: Courier, monospace;
+  font-family: monospace;
   box-shadow: -4px 7px 10px rgb(20, 20, 20);
 }
 .conteiner input::placeholder {
@@ -88,8 +88,9 @@ h1{
   transform: scale(0.9);
 }
 .forgot{
+  font-family: monospace;
   position:absolute;
-  top: 54%;
+  top: 53%;
   font-size: 17px;
 }
 .or{
@@ -97,7 +98,7 @@ h1{
   bottom: 22%;
   font-size: 30px;
   font-weight: bold;
-  font-family: Courier, monospace;
+  font-family:monospace;
 }
 .row2{
   position: absolute;
